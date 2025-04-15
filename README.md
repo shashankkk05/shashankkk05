@@ -7,7 +7,7 @@
 - An AI-powered Daily Journal Web App using the MERN stack with sentiment analysis and speech-to-text  
 
 🌱 I’m currently learning:  
-- Spring Boot 
+- Spring Boot ,Nextjs
 - Advanced HTML, Flutter, and TypeScript  
 - Machine Learning & Deep Learning models  
 
@@ -16,7 +16,7 @@
 - Chat applications or productivity tools   
 
 💬 Ask me about:  
-- Web development (MERN )   
+- Web Development(Frontend)  
 - DSA 
 
 📫 How to reach me:  
