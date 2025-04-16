@@ -27,4 +27,9 @@
 - He/Him  
 
 ⚡ Fun fact:  
-- I once debugged a bug at 3 AM and it turned out to be a missing semicolon 😅  
+- I once debugged a bug at 3 AM and it turned out to be a missing semicolon 😅
+
+
+## 🧠 GFG Stats
+![GFG Stats](https://gfg-stats-card.vercel.app/api?username=shashankshekharrr)
+
