@@ -19,7 +19,7 @@
 - Web Development(Frontend)  
 - DSA 
 
-📫 How to reach me:  
+📫 How to reach me:-
 - [LinkedIn](www.linkedin.com/in/shashank-s-1a7469251)  
 - [GitHub](https://github.com/shashankkk05)  
 
