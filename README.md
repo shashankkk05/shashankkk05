@@ -15,7 +15,7 @@
 - Open source web apps, ML projects.
 - Chat applications or productivity tools   
 
-💬 Ask me about:  
+💬 Ask me about:-
 - Web Development(Frontend)  
 - DSA 
 
