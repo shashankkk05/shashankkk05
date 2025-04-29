@@ -23,7 +23,7 @@
 - [LinkedIn](www.linkedin.com/in/shashank-s-1a7469251)  
 - [GitHub](https://github.com/shashankkk05)  
 
-😄 Pronouns:  
+😄 Pronouns-
 - He/Him  
 
 ⚡ Fun fact:  
