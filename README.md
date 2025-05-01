@@ -26,7 +26,7 @@
 😄 Pronouns--
 - He/Him  
 
-⚡ Fun fact:  
+⚡ Fun fact:-
 - I once debugged a bug at 3 AM and it turned out to be a missing semicolon 😅
 
 
