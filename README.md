@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on:--
+- 🔭 I’m currently working on:-
 - A Stock Market Price Prediction website 
 - An AI-powered Daily Journal Web App using the MERN stack with sentiment analysis and speech-to-text  
 
