@@ -11,7 +11,7 @@
 - Advanced HTML, Flutter, and TypeScript  
 - Machine Learning & Deep Learning models  
 
-👯 I’m looking to collaborate on:-
+👯 I’m looking to collaborate on:--
 - Open source web apps, ML projects.
 - Chat applications or productivity tools   
 
