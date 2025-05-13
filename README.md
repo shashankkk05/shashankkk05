@@ -6,7 +6,7 @@
 - A Stock Market Price Prediction website 
 - An AI-powered Daily Journal Web App using the MERN stack with sentiment analysis and speech-to-text  
 
-🌱 I’m currently learning:-
+🌱 I’m currently learning:--
 - Spring Boot ,Nextjs
 - Advanced HTML, Flutter, and TypeScript  
 - Machine Learning & Deep Learning models  
