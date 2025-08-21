@@ -31,5 +31,5 @@
 
 
 ## 🧠 GFG Stats
-![GFG Stats](https://gfg-stats-card.vercel.app/api?username=shashankshekharrr)
+https://www.geeksforgeeks.org/user/shashankshekharrr/
 
